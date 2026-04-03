@@ -2,8 +2,8 @@
    你需要填的設定
 ========================= */
 const CONFIG = {
-  CLIENT_ID: "",
-  SPREADSHEET_ID: "",
+  CLIENT_ID: "555417018150-fi6jojvcid5c70og6fapskllhm03ke26.apps.googleusercontent.com",
+  SPREADSHEET_ID: "1bFtVDLbGFYxYWDFfQykJTh17XaetQZvqgMUO9OzfpI4",
 
   SHEET_RECORDS: "記帳紀錄",
   SHEET_FIELDS: "欄位表",
